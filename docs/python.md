@@ -6,6 +6,12 @@ sidebar_label: Python
 
 By: Yijiang Zhao & Matthew Qu
 
+## Topics
+
+## Beginner topics
+
+
+
 ## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
